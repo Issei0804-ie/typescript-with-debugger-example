@@ -10,7 +10,7 @@ Description is [here](https://scrapbox.io/issei-ie-public/%E3%83%87%E3%83%90%E3%
 - pnpm(v8.6.12)
 - node(v18.17.1)
 
-I recomend to use pnpm, but it may can build a environment.
+I recommend using pnpm, but you may also be able to build an environment using npm or yarn.
 
 ### Install dependencies and build
 
